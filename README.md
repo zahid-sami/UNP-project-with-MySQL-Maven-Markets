@@ -9,8 +9,5 @@ KEY HIGHLIGHTS:
 3. The analysis of the data and the easy findings of the numeric values in the data set made it easy.
 
 
-MySQL file link: https://drive.google.com/file/d/14w8lFtqgktEudot30EIL0FcW9ulAbaGN/view?usp=sharing
-
-MySQL file link: https://drive.google.com/file/d/1XW1gAWT0Pcp6uf3CuQjU9LowagUghQC4/view?usp=sharing
-
-MySQL file link: https://drive.google.com/file/d/1GcPjx36ektTtCneEdfTnQGsZBAnaZDip/view?usp=sharing
+PPT File:-https://drive.google.com/file/d/1pcw63zUiM_UQ3cDsHG6P-zrv2RrhrGyv/view?usp=sharing
+PDF File:-https://drive.google.com/file/d/1FRPwxjrREHHuI42uAICwPHrYCwSXAHeF/view?usp=sharing
