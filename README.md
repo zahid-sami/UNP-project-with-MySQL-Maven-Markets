@@ -1,6 +1,7 @@
 <img width="364" height="138" alt="download" src="https://github.com/user-attachments/assets/b87d99d1-7d93-40a1-b421-c260dd4e2521" />
-Maven-Markets
+
 # UNP-project-with-MySQL-
+Maven-Markets
 Completed this project by using Power BI as a part of my internship process with the United Network of Professionals.
 
 KEY HIGHLIGHTS:
