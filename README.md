@@ -1,6 +1,6 @@
-https://www.google.com/imgres?q=maven%20markets%20photos&imgurl=https%3A%2F%2Fcdn.mavenanalytics.io%2Fpublic%2Fprofile%2F68b17310-4031-707a-3940-68fc4a83bf9a%2Fprojects%2FMaven_Market-(1).png&imgrefurl=https%3A%2F%2Fmavenanalytics.io%2Fproject%2F25893&docid=g6PXPLPI-X0fKM&tbnid=gZcErXklpglbFM&vet=12ahUKEwielMzdl_OOAxWbnf0HHY6tLCEQM3oECBkQAA..i&w=1245&h=474&hcb=2&ved=2ahUKEwielMzdl_OOAxWbnf0HHY6tLCEQM3oECBkQAA
-# UNP-project-with-MySQL-Maven-Markets
-
+<img width="364" height="138" alt="download" src="https://github.com/user-attachments/assets/b87d99d1-7d93-40a1-b421-c260dd4e2521" />
+Maven-Markets
+# UNP-project-with-MySQL-
 Completed this project by using Power BI as a part of my internship process with the United Network of Professionals.
 
 KEY HIGHLIGHTS:
