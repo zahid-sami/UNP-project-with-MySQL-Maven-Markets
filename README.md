@@ -2,7 +2,7 @@
 
 # UNP-project-with-MySQL-
 Maven-Markets
-Completed this project by using Power BI as a part of my internship process with the United Network of Professionals.
+Completed this project by using MySQL as a part of my internship process with the United Network of Professionals.
 
 KEY HIGHLIGHTS:
 
